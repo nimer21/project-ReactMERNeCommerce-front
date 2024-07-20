@@ -1,5 +1,5 @@
 //const backendDomain = "http://localhost:8000"
-const backendDomain = process.env.REACT_APP_APIURL;
+const backendDomain = "https://project-react-mer-ne-commerce-back.vercel.app";
 
 const SummaryApi = {
     signUp : {
